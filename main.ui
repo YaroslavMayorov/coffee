@@ -23,6 +23,32 @@
     </rect>
    </property>
   </widget>
+  <widget class="QPushButton" name="button_main">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>10</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Режим редактирования</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="download">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>10</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Загрузить изменения</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
